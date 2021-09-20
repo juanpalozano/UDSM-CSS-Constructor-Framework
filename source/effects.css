@@ -1,0 +1,63 @@
+/*===============================
+=            Effects            =
+===============================*/
+
+/*----------  Blur  ----------*/
+.blur-xl { backdrop-filter: blur(1rem); }
+.blur-lg { backdrop-filter: blur(.75rem); }
+.blur-md { backdrop-filter: blur(.5rem); }
+.blur-sm { backdrop-filter: blur(.25rem); }
+.blur-xs { backdrop-filter: blur(.125rem); }
+
+/*----------  Box Shadow  ----------*/
+.box-shadow-xl	{
+	-webkit-box-shadow: 0 0 0.25rem 0.125rem var(--color-box-shadow-xl);
+	-moz-box-shadow:    0 0 0.25rem 0.125rem var(--color-box-shadow-xl);
+	box-shadow:         0 0 0.25rem 0.125rem var(--color-box-shadow-xl);
+}
+
+.box-shadow-lg	{
+	-webkit-box-shadow: 0 0 0.25rem 0.125rem var(--color-box-shadow-lg);
+	-moz-box-shadow:    0 0 0.25rem 0.125rem var(--color-box-shadow-lg);
+	box-shadow:         0 0 0.25rem 0.125rem var(--color-box-shadow-lg);
+}
+
+.box-shadow-md	{
+	-webkit-box-shadow: 0 0 0.25rem 0.125rem var(--color-box-shadow-md);
+	-moz-box-shadow:    0 0 0.25rem 0.125rem var(--color-box-shadow-md);
+	box-shadow:         0 0 0.25rem 0.125rem var(--color-box-shadow-md);
+}
+
+.box-shadow-sm	{
+	-webkit-box-shadow: 0 0 0.25rem 0.125rem var(--color-box-shadow-sm);
+	-moz-box-shadow:    0 0 0.25rem 0.125rem var(--color-box-shadow-sm);
+	box-shadow:         0 0 0.25rem 0.125rem var(--color-box-shadow-sm);
+}
+
+.box-shadow-xs	{
+	-webkit-box-shadow: 0 0 0.25rem 0.125rem var(--color-box-shadow-xs);
+	-moz-box-shadow:    0 0 0.25rem 0.125rem var(--color-box-shadow-xs);
+	box-shadow:         0 0 0.25rem 0.125rem var(--color-box-shadow-xs);
+}
+
+/*----------  Text Shadow  ----------*/
+.text-shadow-xl	{text-shadow: 0 0 0.125rem var(--color-text-shadow-xl)}
+.text-shadow-lg	{text-shadow: 0 0 0.125rem var(--color-text-shadow-lg)}
+.text-shadow-md	{text-shadow: 0 0 0.125rem var(--color-text-shadow-md)}
+.text-shadow-sm	{text-shadow: 0 0 0.125rem var(--color-text-shadow-sm)}
+.text-shadow-xs	{text-shadow: 0 0 0.125rem var(--color-text-shadow-xs)}
+
+/*----------  Inner Shadow  ----------*/
+.inner-shadow-top       { box-shadow: inset 0 -1rem .5rem -1rem rgba(0,0,0,.6); }
+.inner-shadow-right     { box-shadow: inset 1rem 0 .5rem -1rem rgba(0,0,0,.6); }
+.inner-shadow-bottom    { box-shadow: inset 0 -1rem .5rem -1rem rgba(0,0,0,.6); }
+.inner-shadow-left      { box-shadow: inset -1rem 0 .5rem -1rem rgba(0,0,0,.6); }
+
+/*----------  Drop Shadow  ----------*/
+.dropshadow-xl { filter: drop-shadow(0 0 2rem rgba(0,0,0,.6)); }
+.dropshadow-lg { filter: drop-shadow(0 0 1rem rgba(0,0,0,.6)); }
+.dropshadow-md { filter: drop-shadow(0 0 0.5rem rgba(0,0,0,.6)); }
+.dropshadow-sm { filter: drop-shadow(0 0 0.2rem rgba(0,0,0,.6)); }
+.dropshadow-xs { filter: drop-shadow(0 0 0.1rem rgba(0,0,0,.6)); }
+
+/*=====  End of Effects  ======*/

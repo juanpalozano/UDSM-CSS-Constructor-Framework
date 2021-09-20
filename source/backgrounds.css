@@ -1,0 +1,105 @@
+/*===================================
+=            Backgrounds            =
+===================================*/
+
+.bg-color-transparent		{background-color: transparent;}
+
+/*  BG Color Main  */
+.bg-color-main 				{background-color: var(--color-main);}
+.bg-color-main-a80			{background-color: var(--color-main-a80);}
+.bg-color-main-a60			{background-color: var(--color-main-a60);}
+.bg-color-main-a40			{background-color: var(--color-main-a40);}
+.bg-color-main-a20			{background-color: var(--color-main-a20);}
+
+/*  BG Color Alt  */
+.bg-color-alt  				{background-color: var(--color-alt);}
+.bg-color-alt-a80			{background-color: var(--color-alt-a80);}
+.bg-color-alt-a60			{background-color: var(--color-alt-a60);}
+.bg-color-alt-a40			{background-color: var(--color-alt-a40);}
+.bg-color-alt-a20			{background-color: var(--color-alt-a20);}
+
+/*  BG Color Extra 1  */
+.bg-color-extra1  			{background-color: var(--color-extra1);}
+.bg-color-extra1-a80		{background-color: var(--color-extra1-a80);}
+.bg-color-extra1-a60		{background-color: var(--color-extra1-a60);}
+.bg-color-extra1-a40		{background-color: var(--color-extra1-a40);}
+.bg-color-extra1-a20		{background-color: var(--color-extra1-a20);}
+
+/*  BG Color Extra 2  */
+.bg-color-extra2  			{background-color: var(--color-extra2)}
+.bg-color-extra2-a80		{background-color: var(--color-extra2-a80);}
+.bg-color-extra2-a60		{background-color: var(--color-extra2-a60);}
+.bg-color-extra2-a40		{background-color: var(--color-extra2-a40);}
+.bg-color-extra2-a20		{background-color: var(--color-extra2-a20);}
+
+/*  BG Color Extra 3  */
+.bg-color-extra3  			{background-color: var(--color-extra3);}
+.bg-color-extra3-a80		{background-color: var(--color-extra3-a80);}
+.bg-color-extra3-a60		{background-color: var(--color-extra3-a60);}
+.bg-color-extra3-a40		{background-color: var(--color-extra3-a40);}
+.bg-color-extra3-a20		{background-color: var(--color-extra3-a20);}
+
+/*  BG Color Extra 4  */
+.bg-color-extra4  			{background-color: var(--color-extra4);}
+.bg-color-extra4-a80		{background-color: var(--color-extra4-a80);}
+.bg-color-extra4-a60		{background-color: var(--color-extra4-a60);}
+.bg-color-extra4-a40		{background-color: var(--color-extra4-a40);}
+.bg-color-extra4-a20		{background-color: var(--color-extra4-a20);}
+
+/*  BG Color Extra light  */
+.bg-color-light				{background-color: var(--color-light);}
+.bg-color-light-a80			{background-color: var(--color-light-a80);}
+.bg-color-light-a60			{background-color: var(--color-light-a60);}
+.bg-color-light-a40			{background-color: var(--color-light-a40);}
+.bg-color-light-a20			{background-color: var(--color-light-a20);}
+
+/*  BG Color Extra Dark  */
+.bg-color-dark				{background-color: var(--color-dark);}
+.bg-color-dark-a80			{background-color: var(--color-dark-a80);}
+.bg-color-dark-a60			{background-color: var(--color-dark-a60);}
+.bg-color-dark-a40			{background-color: var(--color-dark-a40);}
+.bg-color-dark-a20			{background-color: var(--color-dark-a20);}
+
+/*  BG Color Primary  */
+.bg-color-primary			{background-color: var(--color-primary);}
+.bg-color-primary-a80		{background-color: var(--color-primary-a80);}
+.bg-color-primary-a60		{background-color: var(--color-primary-a60);}
+.bg-color-primary-a40		{background-color: var(--color-primary-a40);}
+.bg-color-primary-a20		{background-color: var(--color-primary-a20);}
+
+/*  BG Color Success  */
+.bg-color-success 			{background-color: var(--color-success);}
+.bg-color-success-a80		{background-color: var(--color-success-a80);}
+.bg-color-success-a60		{background-color: var(--color-success-a60);}
+.bg-color-success-a40		{background-color: var(--color-success-a40);}
+.bg-color-success-a20		{background-color: var(--color-success-a20);}
+
+/*  BG Color Warning  */
+.bg-color-warning			{background-color: var(--color-warning);}
+.bg-color-warning-a80		{background-color: var(--color-warning-a80);}
+.bg-color-warning-a60		{background-color: var(--color-warning-a60);}
+.bg-color-warning-a40		{background-color: var(--color-warning-a40);}
+.bg-color-warning-a20		{background-color: var(--color-warning-a20);}
+
+/*  BG Color Danger  */
+.bg-color-danger			{background-color: var(--color-danger);}
+.bg-color-danger-a80		{background-color: var(--color-danger-a80);}
+.bg-color-danger-a60		{background-color: var(--color-danger-a60);}
+.bg-color-danger-a40		{background-color: var(--color-danger-a40);}
+.bg-color-danger-a20		{background-color: var(--color-danger-a20);}
+
+/*  BG Color Social  */
+.bg-color-whatsapp			{background-color: var(--color-whatsapp);}
+.bg-color-whatsapp-alpha	{background-color: var(--color-whatsapp-alpha);}
+.bg-color-maps				{background-color: var(--color-maps);}
+.bg-color-maps-alpha		{background-color: var(--color-maps-alpha);}
+
+/*  BG Color Testing  */
+.bg-t1 {background-color: #f00;}
+.bg-t2 {background-color: #ff0;}
+.bg-t3 {background-color: #0f0;}
+.bg-t4 {background-color: #0ff;}
+.bg-t5 {background-color: #00f;}
+.bg-t6 {background-color: #f0f;}
+
+/*=====  End of Backgrounds  ======*/

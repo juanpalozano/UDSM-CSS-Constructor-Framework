@@ -1,0 +1,96 @@
+/*===============================
+=            Margins            =
+===============================*/
+
+.mrg-auto {margin:       	   auto;}
+.mrg-none {margin: 		0!important;}
+
+/* Top */
+.mrg-4x-t {margin-top:  	   8rem;}
+.mrg-3x-t {margin-top:  	   6rem;}
+.mrg-2x-t {margin-top:  	   4rem;}
+.mrg-xl-t {margin-top:   	   2rem;}
+.mrg-lg-t {margin-top:   	   1rem;}
+.mrg-md-t {margin-top: 		 .50rem;}
+.mrg-sm-t {margin-top: 		 .25rem;}
+.mrg-xs-t {margin-top: 		 .10rem;}
+/* Top */
+
+/* Top Negative */
+.mrg-4x-tn {margin-top:  	  -8rem;}
+.mrg-3x-tn {margin-top:  	  -6rem;}
+.mrg-2x-tn {margin-top:  	  -4rem;}
+.mrg-xl-tn {margin-top:   	  -2rem;}
+.mrg-lg-tn {margin-top:   	  -1rem;}
+.mrg-md-tn {margin-top: 	-.50rem;}
+.mrg-sm-tn {margin-top: 	-.25rem;}
+.mrg-xs-tn {margin-top:		-.10rem;}
+/* Top Negative */
+
+/* Right */
+.mrg-4x-r {margin-right:   8rem;}
+.mrg-3x-r {margin-right:   6rem;}
+.mrg-2x-r {margin-right:   4rem;}
+.mrg-xl-r {margin-right:   2rem;}
+.mrg-lg-r {margin-right:   1rem;}
+.mrg-md-r {margin-right: .50rem;}
+.mrg-sm-r {margin-right: .25rem;}
+.mrg-xs-r {margin-right: .10rem;}
+/* Right */
+
+/* Right Negative */
+.mrg-4x-rn {margin-right:	  -8rem;}
+.mrg-3x-rn {margin-right:	  -6rem;}
+.mrg-2x-rn {margin-right:	  -4rem;}
+.mrg-xl-rn {margin-right:	  -2rem;}
+.mrg-lg-rn {margin-right:	  -1rem;}
+.mrg-md-rn {margin-right:	-.50rem;}
+.mrg-sm-rn {margin-right:	-.25rem;}
+.mrg-xs-rn {margin-right:	-.10rem;}
+/* Right Negative */
+
+/* Bottom  */
+.mrg-4x-b {margin-bottom:   8rem;}
+.mrg-3x-b {margin-bottom:   6rem;}
+.mrg-2x-b {margin-bottom:   4rem;}
+.mrg-xl-b {margin-bottom:   2rem;}
+.mrg-lg-b {margin-bottom:   1rem;}
+.mrg-md-b {margin-bottom: .50rem;}
+.mrg-sm-b {margin-bottom: .25rem;}
+.mrg-xs-b {margin-bottom: .10rem;}
+/* Bottom  */
+
+/* Bottom Negative  */
+.mrg-4x-bn {margin-bottom:   -8rem;}
+.mrg-3x-bn {margin-bottom:   -6rem;}
+.mrg-2x-bn {margin-bottom:   -4rem;}
+.mrg-xl-bn {margin-bottom:   -2rem;}
+.mrg-lg-bn {margin-bottom:   -1rem;}
+.mrg-md-bn {margin-bottom: -.50rem;}
+.mrg-sm-bn {margin-bottom: -.25rem;}
+.mrg-xs-bn {margin-bottom: -.10rem;}
+/* Bottom Negative  */
+
+/* Left */
+.mrg-4x-l {margin-left:   8rem;}
+.mrg-3x-l {margin-left:   6rem;}
+.mrg-2x-l {margin-left:   4rem;}
+.mrg-xl-l {margin-left:   2rem;}
+.mrg-lg-l {margin-left:   1rem;}
+.mrg-md-l {margin-left: .50rem;}
+.mrg-sm-l {margin-left: .25rem;}
+.mrg-xs-l {margin-left: .10rem;}
+/* Left */
+
+/* Left Negative */
+.mrg-4x-ln {margin-left:   -8rem;}
+.mrg-3x-ln {margin-left:   -6rem;}
+.mrg-2x-ln {margin-left:   -4rem;}
+.mrg-xl-ln {margin-left:   -2rem;}
+.mrg-lg-ln {margin-left:   -1rem;}
+.mrg-md-ln {margin-left: -.50rem;}
+.mrg-sm-ln {margin-left: -.25rem;}
+.mrg-xs-ln {margin-left: -.10rem;}
+/* Left Negative */
+
+/*=====  End of Margins  ======*/

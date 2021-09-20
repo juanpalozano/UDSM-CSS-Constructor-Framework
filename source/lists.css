@@ -1,0 +1,36 @@
+/*=============================
+=            Lists            =
+=============================*/
+
+/* Horizontal List */
+ul.horizontal-list {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+ul.horizontal-list li {
+	display: inline-block;
+}
+ul.horizontal-list li:first-child {
+	margin-left: 0 !important;
+}
+ul.horizontal-list li:last-child {
+	margin-left: 0 !important;
+}
+/*
+#nav-main li:last-child {
+	margin-right: 0 !important;
+}
+*/
+
+/* Vertical List */
+ul.vertical-list {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+ul.vertical-list li {
+	display: block;
+	width: 100%;
+}
+/*=====  End of Lists  ======*/
